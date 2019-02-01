@@ -24,7 +24,7 @@ public class UserService {
 		users.add(new User(1001, "Sudipto", "Bhowmick", "sudipto.bhowmick@email.com"));
 		users.add(new User(1002, "Gautam", "Roy", "gautam.roy@email.com"));
 		users.add(new User(1003, "Soumitra", "Sarkar", "contact@jeejava.com"));
-		users.add(new User(1000, "Sudipto", "Roy", "sudipto.bhowmick@email.com"));
+		//users.add(new User(1000, "Sudipto", "Roy", "sudipto.bhowmick@email.com"));
 	}
 
 	public User getUserById(final int id) {
